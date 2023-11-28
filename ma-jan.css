@@ -1,0 +1,16 @@
+#mahjong-tiles {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tile {
+    width: 50px;
+    height: 70px;
+    background-color: #fff;
+    border: 1px solid #000;
+    margin: 5px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 70px;
+}
+
